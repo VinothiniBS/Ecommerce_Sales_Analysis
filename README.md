@@ -4,8 +4,9 @@ This project performs an exploratory data analysis (EDA) on e-commerce sales dat
 
 ## Project Structure
 
-- **data.csv**: The e-commerce sales dataset containing transaction data.
+- **data.csv**: The e-commerce sales dataset containing transaction data (can be downloaded from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data?resource=download)).
 - **main.py**: Python script performing the analysis, including EDA, sales forecasting, and RFM analysis.
+- **src/**: Contains helper functions used across the analysis.
 - **plots/**: Folder containing the generated plots for visualizations.
 
 ## Output
